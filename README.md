@@ -15,26 +15,26 @@
 <th colspan="2">让世界认识两千年的雕刻</th>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/6.jpg?raw=true" width="600" height="500" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/6.jpg?raw=true" width="600" height="300" /></p>
 </td>
 <td></td>
 </tr>
 
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/7.jpg?raw=true
-" width="600" height="500" /></p>
+" width="600" height="300" /></p>
 </td>
 <td></td>
 </tr>
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/8.jpg?raw=true
-" width="600" height="500" /></p>
+" width="600" height="300" /></p>
 </td>
 <td></td>
 </tr>
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/10.jpg?raw=true
-" width="600" height="500" /></p>
+" width="600" height="300" /></p>
 </td>
 <td></td>
 </tr>
@@ -43,7 +43,7 @@
 					<tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/11.jpg?raw=true
 
-" width="600" height="500" /></p>
+" width="600" height="300" /></p>
 </td>
 <td></td>
 </tr>
