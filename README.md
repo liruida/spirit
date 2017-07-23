@@ -43,7 +43,7 @@
 					<tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/11.jpg?raw=true
 
-" width="600" height="300" /></p>
+" width="600" height="200" /></p>
 </td>
 <td></td>
 </tr>
