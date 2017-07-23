@@ -8,7 +8,7 @@
 <li><a href="https://liruida.github.io/weixin/">主要作品</a></li>
 
 <li>匠人精神</li>
-<li><a href="#">文化修养</a></li>
+<li><a href="https://liruida.github.io/culture/">文化修养</a></li>
 <table>
 <tr>
 <th colspan="2">让世界认识两千年的雕刻</th>
