@@ -3,7 +3,9 @@
 <head>
 <meta charset="utf-8"/>
          
-	      	
+	</head>
+
+<body>      	
 <img src="https://github.com/liruida/cangku1/blob/master/5.jpg?raw=true" width="1400px" height="300px">
 <li><a href="https://liruida.github.io/weixin/">主要作品</a></li>
 
@@ -46,9 +48,5 @@
 </td>
 <td></td>
 </tr>
-</table>
-      
-      
-  </body>
-</html>
+
 
